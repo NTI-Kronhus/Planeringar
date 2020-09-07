@@ -58,7 +58,7 @@ v47-48
 
 
 ## Repetition
-Modul för att rita på skärmen
+Repetition på allt vi gått igenom hittills
 
 v49
 
