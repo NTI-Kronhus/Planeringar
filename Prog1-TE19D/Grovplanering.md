@@ -67,25 +67,24 @@ Vi kommer ha ett prov på de arbetsområden vi arbetat med under kursen.
 
 v50
 
-## Moduler
+## Moduler, fel, filer
 Används för att separera en samling funktioner för att kunna återanvända i flera projekt.</br>
 
-v51
+Felhantering är viktigt för att göra programmet 
+
+v51-3
 
 ## Laboration 2 
 Mer info kommer senare
 
-v2-3
+v4-5
 
-## Turtle
+## Turtle, VPython
 Modul för att rita på skärmen
 
-v4
+Vpython - grafik för simuleringar i fysik
+v4-5
 
-## VPython
-Grafik för fysik 
-
-v5
 
 ## Laboration 3 
 Mer info senare

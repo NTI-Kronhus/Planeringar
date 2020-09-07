@@ -22,7 +22,8 @@ Efter att området är färdigt kommer relevanta länkar läggas här under rät
 <ul>
     <li>Kursintroduktion med sannolikhetsuppgift på Python.</li> 
     <li>Installera mjukvara: Visual Studio Code, Github</li> 
-</ul>v35-36
+</ul>
+v35-36
 
 ## Input/output, variabler, datatyper
 Vad är en variabel och vilka olika sorters information/data kan en sådan innehålla?
@@ -56,7 +57,6 @@ Används för att kunna dela upp kod för att kunna återanvända en viss funkti
 
 v47-48
 
-
 ## Repetition
 Repetition på allt vi gått igenom hittills
 
@@ -67,25 +67,24 @@ Vi kommer ha ett prov på de arbetsområden vi arbetat med under kursen.
 
 v50
 
-## Moduler
+## Moduler, fel, filer
 Används för att separera en samling funktioner för att kunna återanvända i flera projekt.</br>
 
-v51
+Felhantering är viktigt för att göra programmet 
+
+v51-3
 
 ## Laboration 2 
 Mer info kommer senare
 
-v2-3
+v4-5
 
-## Turtle
+## Turtle, VPython
 Modul för att rita på skärmen
 
-v4
+Vpython - grafik för simuleringar i fysik
+v4-5
 
-## VPython
-Grafik för fysik 
-
-v5
 
 ## Laboration 3 
 Mer info senare
