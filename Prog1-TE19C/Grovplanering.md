@@ -56,18 +56,19 @@ Används för att kunna dela upp kod för att kunna återanvända en viss funkti
 
 v47-48
 
-## Moduler
-Används för att separera en samling funktioner för att kunna återanvända i flera projekt.</br>
-
-v49
 
 ## Repetition
 Modul för att rita på skärmen
 
-v50
+v49
 
 ## Teoretiskt prov
 Vi kommer ha ett prov på de arbetsområden vi arbetat med under kursen. 
+
+v50
+
+## Moduler
+Används för att separera en samling funktioner för att kunna återanvända i flera projekt.</br>
 
 v51
 
