@@ -38,3 +38,33 @@ Hur skriver man en applikation med grafiska komponenter? (knappar och bilder osv
 SOLID-designprinciper
 
 <b>Avslutas med prov och ett sammarbete med Svenska 3</b>
+
+## Designmönster
+##### ca 4 veckor
+Vecka 1: Strategy Pattern
+Vecka 2: Observer Pattern
+Vecka 3: Chain of Responsibility Pattern
+Vecka 4: Command Pattern
+
+## Repetition / Spelprogrammering
+##### ca 6 veckor
+Vecka 1: Startup/Gruppindelning
+Vecka 2: Repetition WPF / Intro Unity
+Vecka 3: Övning WPF / Eget arbete uppgift Unity
+Vecka 4: Genomgång Övning WPF / Eget arbete uppgift Unity
+Vecka 5: Uppgift WPF / Eget arbete uppgift Unity
+Vecka 6: Uppgift WPF / Eget arbete uppgift Unity
+<b>Deadline slutet av den 6e veckan.</b>
+
+## Slutprojekt
+##### ca 9 veckor
+Vecka 1: Intro Slutuppgift och Genomgång av delarna
+Vecka 2: Genomgång Planering 
+Vecka 3: Eget arbete Planering
+Vecka 4: Deadline Planering
+Vecka 5: Eget arbete slutprojekt
+Vecka 6: Eget arbete slutprojekt
+Vecka 7: Eget arbete slutprojekt
+Vecka 8: Eget arbete slutprojekt
+Vecka 9: Genomgång UtvärderingDeadline Utvärdering
+<b>Deadline Slutprojekt</b>
