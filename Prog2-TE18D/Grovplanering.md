@@ -46,10 +46,9 @@ Vecka 2: Observer Pattern </br>
 </br>
 ## Repetition / Spelprogrammering
 ##### ca 3 veckor
-Vecka 1: Startup/Gruppindelning </br>
-Vecka 2: Repetition WPF / Intro Unity </br>
-Vecka 3: Övning WPF / Eget arbete uppgift Unity </br>
-Vecka 4: Genomgång Övning WPF / Eget arbete uppgift Unity </br>
+Vecka 1: Startup/Gruppindelning </br> Repetition WPF / Intro Unity </br>
+Vecka 2: Övning WPF / Eget arbete uppgift Unity </br>
+Vecka 3: Genomgång Övning WPF / Eget arbete uppgift Unity </br>
 </br>
 ## Slutprojekt
 ##### ca 6 veckor
