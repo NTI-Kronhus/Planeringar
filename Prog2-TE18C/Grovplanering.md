@@ -40,7 +40,7 @@ SOLID-designprinciper
 <b>Avslutas med prov och ett sammarbete med Svenska 3</b>
 
 ## Designmönster
-##### ca 4 veckor
+##### ca 2 veckor
 Vecka 1: Strategy Pattern </br>
 Vecka 2: Observer Pattern </br>
 </br>
@@ -52,7 +52,7 @@ Vecka 3: Övning WPF / Eget arbete uppgift Unity </br>
 Vecka 4: Genomgång Övning WPF / Eget arbete uppgift Unity </br>
 </br>
 ## Slutprojekt
-##### ca 6 veckor
+##### ca 7 veckor
 Vecka 1: Intro Slutuppgift och Genomgång av delarna </br> Genomgång Planering </br>
 Vecka 2: Eget arbete Planering </br>
 Vecka 3: Deadline Planering </br> Eget arbete slutprojekt </br>
