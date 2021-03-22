@@ -43,28 +43,21 @@ SOLID-designprinciper
 ##### ca 4 veckor
 Vecka 1: Strategy Pattern </br>
 Vecka 2: Observer Pattern </br>
-Vecka 3: Chain of Responsibility Pattern </br>
-Vecka 4: Command Pattern </br>
 </br>
 ## Repetition / Spelprogrammering
-##### ca 6 veckor
+##### ca 3 veckor
 Vecka 1: Startup/Gruppindelning </br>
 Vecka 2: Repetition WPF / Intro Unity </br>
 Vecka 3: Övning WPF / Eget arbete uppgift Unity </br>
 Vecka 4: Genomgång Övning WPF / Eget arbete uppgift Unity </br>
-Vecka 5: Uppgift WPF / Eget arbete uppgift Unity </br>
-Vecka 6: Uppgift WPF / Eget arbete uppgift Unity </br>
-<b>Deadline slutet av den 6e veckan.</b> </br>
 </br>
 ## Slutprojekt
-##### ca 9 veckor
-Vecka 1: Intro Slutuppgift och Genomgång av delarna </br>
-Vecka 2: Genomgång Planering </br>
-Vecka 3: Eget arbete Planering </br>
-Vecka 4: Deadline Planering </br>
+##### ca 6 veckor
+Vecka 1: Intro Slutuppgift och Genomgång av delarna </br> Genomgång Planering </br>
+Vecka 2: Eget arbete Planering </br>
+Vecka 3: Deadline Planering </br> Eget arbete slutprojekt </br>
+Vecka 4: Eget arbete slutprojekt </br>
 Vecka 5: Eget arbete slutprojekt </br>
 Vecka 6: Eget arbete slutprojekt </br>
-Vecka 7: Eget arbete slutprojekt </br>
-Vecka 8: Eget arbete slutprojekt </br>
-Vecka 9: Genomgång UtvärderingDeadline Utvärdering </br>
+Vecka 7: Genomgång Utvärdering </br >Deadline Utvärdering </br>
 <b>Deadline Slutprojekt</b>
